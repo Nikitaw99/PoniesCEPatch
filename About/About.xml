@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModMetaData>
+    <packageId>TeiyaTweaks.PoniesCEPatch</packageId>
+    <name>Ponies of the Rim - CE Patch</name>
+    <author>Teiya</author>
+    <supportedVersions>
+        <li>1.6</li>
+    </supportedVersions>
+    <description>Patches the Ponies of the Rim mod to properly work with Combat Extended.</description>
+    <modDependencies>
+        <li>
+            <packageId>ceteam.combatextended</packageId>
+            <displayName>Combat Extended</displayName>
+        </li>
+        <li>
+            <packageId>pony.poniesoftherim.core</packageId>
+            <displayName>Ponies of the Rim</displayName>
+        </li>
+    </modDependencies>
+    <loadAfter>
+        <li>ceteam.combatextended</li>
+        <li>pony.poniesoftherim.core</li>
+    </loadAfter>
+</ModMetaData>
