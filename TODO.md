@@ -1,12 +1,13 @@
 ## Pawn Patches
 
-- [ ] melee combat values
-- [ ] natural weapons (really need to check ingame first)
-- [ ] body shape: Quadruped
-- [ ] suppressable
-- [ ] ammo giver
+- [x] melee combat values
+- [x] natural weapons (really need to check ingame first)
+- [x] body shape: Quadruped
+- [x] suppressable
+- [x] ammo giver
 - [ ] (should ponies have natural armor? need to check)
-- [ ] (earth ponies, pegasi, unicorns)
+- [x] (earth ponies, pegasi, unicorns)
+- [ ] the existing patches are not great, find ways to improve them?
 
 ## Item Patches
 
