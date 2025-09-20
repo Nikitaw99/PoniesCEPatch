@@ -9,6 +9,7 @@
 				<li Class="PatchOperationAdd">
 					<xpath>Defs/AlienRace.ThingDef_AlienRace[@Name="BasePony"]/comps</xpath>
 					<value>
+						<!-- Ensure Ponies have CE's inventory manager, appropriate CE gizmos, and are suppressable. -->
 						<li Class="CombatExtended.CompProperties_Inventory"/>
 						<li>
 							<compClass>CombatExtended.CompPawnGizmo</compClass>
@@ -19,6 +20,7 @@
 						</li>
 					</value>
 				</li>
+				<!-- Pony natural weapons -->
 				<li Class="PatchOperationReplace">
 					<xpath>Defs/AlienRace.ThingDef_AlienRace[@Name="BasePony"]/tools</xpath>
 					<value>

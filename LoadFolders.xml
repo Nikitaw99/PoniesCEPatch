@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <loadFolders>
     <v1.6>
+        <!-- This is a bit redundant now, but will be relevant when these changes are submitted to the CE repo. -->
         <li IfModActive="ceteam.combatextended">ModPatches/Ponies of the Rim</li>
     </v1.6>
 </loadFolders>
