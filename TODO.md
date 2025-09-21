@@ -6,9 +6,9 @@
 - [x] suppressable
 - [x] ammo giver
 - [x] (earth ponies, pegasi, unicorns)
-- [ ] Fix existing patches:
+- [x] Fix existing patches:
 	- [x] Bodytypes
-	- [ ] Scenario
+	- [x] Scenario
 - [ ] Improve existing patches?
 
 ## Item Patches
