@@ -12,8 +12,8 @@
 
 ## Item Patches
 
-- [ ] pony fur (slightly better than lightleather)
-	- [ ] StuffPower values (use other leathers as reference)
+- [x] pony fur (slightly better than lightleather)
+	- [x] StuffPower values (use other leathers as reference)
 - [ ] saddle bag and battle saddle:
 	- [ ] change carrying cap to bulk
 	- [ ] assign proper bulk/worn bulk values
