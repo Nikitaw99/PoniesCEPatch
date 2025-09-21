@@ -8,13 +8,15 @@
 - [ ] (should ponies have natural armor? need to check)
 - [x] (earth ponies, pegasi, unicorns)
 - [ ] not sure but the Magic Burst Unicorn ability may need patching?
-- [ ] the existing patches are not great, find ways to improve them?
+- [ ] Fix existing patches:
+	- [ ] Bodytypes
+	- [ ] Scenario
+- [ ] Improve existing patches?
 
 ## Item Patches
 
-- [ ] pony fur (slightly better than lightleather)
-	- [ ] appropriate bulk value
-	- [ ] StuffPower values (use other leathers as reference)
+- [x] pony fur (slightly better than lightleather)
+	- [x] StuffPower values (use other leathers as reference)
 - [ ] saddle bag and battle saddle:
 	- [ ] change carrying cap to bulk
 	- [ ] assign proper bulk/worn bulk values
