@@ -7,7 +7,7 @@
 - [x] ammo giver
 - [x] (earth ponies, pegasi, unicorns)
 - [ ] Fix existing patches:
-	- [ ] Bodytypes
+	- [x] Bodytypes
 	- [ ] Scenario
 - [ ] Improve existing patches?
 
