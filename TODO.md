@@ -5,9 +5,7 @@
 - [x] body shape: Quadruped
 - [x] suppressable
 - [x] ammo giver
-- [ ] (should ponies have natural armor? need to check)
 - [x] (earth ponies, pegasi, unicorns)
-- [ ] not sure but the Magic Burst Unicorn ability may need patching?
 - [ ] Fix existing patches:
 	- [ ] Bodytypes
 	- [ ] Scenario
