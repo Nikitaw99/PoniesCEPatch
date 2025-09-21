@@ -8,7 +8,10 @@
 - [ ] (should ponies have natural armor? need to check)
 - [x] (earth ponies, pegasi, unicorns)
 - [ ] not sure but the Magic Burst Unicorn ability may need patching?
-- [ ] the existing patches are not great, find ways to improve them?
+- [ ] Fix existing patches:
+	- [ ] Bodytypes
+	- [ ] Scenario
+- [ ] Improve existing patches?
 
 ## Item Patches
 
