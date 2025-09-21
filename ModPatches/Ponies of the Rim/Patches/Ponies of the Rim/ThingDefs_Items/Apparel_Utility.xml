@@ -55,6 +55,7 @@
 					<xpath>Defs/ThingDef[defName="Pony_BattleSaddle"]/equippedStatOffsets</xpath>
 					<value>
 						<equippedStatOffsets>
+							<AimingDelayFactor>-0.15</AimingDelayFactor>
 							<CarryBulk>20</CarryBulk> <!-- Enough to carry something like an assault rifle. -->
 						</equippedStatOffsets>
 					</value>
